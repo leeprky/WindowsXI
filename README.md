@@ -1,7 +1,7 @@
-# Ovel (v1.0.1 - Latest)
+# WindowsXI (v1.0.1 - Latest)
 A Concept Merge I Called Ovel, Its A Round Purple Theme with similarities to Lauren's Discord Redesign On Dribble Mixed In With A Few Others Like The My Account Settings Section And A Spice Of My Own Touches.
 
-![preview](https://i.imgur.com/ZwuCSzc.png)
+![preview]()
 
 ## How To Install Ovel?
 
@@ -12,12 +12,12 @@ For **Powercord** Users:
 1. Open CMD & Type:
 
 ```
-cd powercord/src/Powercord/themes && git clone https://github.com/leeprky/Ovel
+cd powercord/src/Powercord/themes && git clone https://github.com/leeprky/WindowsXI
 ```
 
 For **Betterdiscord** Users:
 
-1. CLick > [Download](https://raw.githubusercontent.com/leeprky/Ovel/lode/source/support/betterdiscord/windowsXI.theme.css)
+1. CLick > [Download](https://raw.githubusercontent.com/leeprky/WindowsXI/lode/source/support/betterdiscord/windowsXI.theme.css)
 2. Download Raw ATM
 
 For **Goosemod** Users:
