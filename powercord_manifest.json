@@ -1,0 +1,9 @@
+{
+    "name": "WindowsXI",
+    "description": "Ovel Theme | Concept Merge",
+    "version": "v0.0.1",
+    "author": "Leeprky#2063",
+    "splashTheme": "splash.css",
+    "license": "MIT",
+    "theme": "WindowsXI-config.css"
+}
