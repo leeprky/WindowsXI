@@ -1,5 +1,5 @@
-# WindowsXI (v1.0.1 - Latest)
-A Concept Merge I Called Ovel, Its A Round Purple Theme with similarities to Lauren's Discord Redesign On Dribble Mixed In With A Few Others Like The My Account Settings Section And A Spice Of My Own Touches.
+# WindowsXI (v0.0.1 - Latest)
+WindowsXI | Windows 11 UI Theme For Discord (v0.0.1) 
 
 ![preview]()
 
