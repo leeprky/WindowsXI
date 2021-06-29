@@ -1,9 +1,10 @@
 # WindowsXI (v0.0.1 - Latest)
 WindowsXI | Windows 11 UI Theme For Discord (v0.0.1) 
 
-![preview]()
+![preview](https://i.imgur.com/tifb7fm.png)
+![preview](https://i.imgur.com/aKxhS57.png)
 
-## How To Install Ovel?
+## How To Install WindowsXI?
 
 Its Simple!
 
@@ -19,12 +20,7 @@ For **Betterdiscord** Users:
 
 1. CLick > [Download](https://raw.githubusercontent.com/leeprky/WindowsXI/lode/source/support/betterdiscord/windowsXI.theme.css)
 2. Download Raw ATM
-
-For **Goosemod** Users:
-
-1. Click "Home" Button > Themes & Search Ovel
-2. Click Import
-
+3. 
 # Extras 
 
 Thank you for checking out/downloading my Theme :)
