@@ -71,6 +71,11 @@
     --green-slider-dot: #fff;
  }
 
+ .theme-dark, .theme-light {
+  --bg-avatar: url(https://i.imgur.com/g37HbBe.png);
+  --roundness: 8px;
+ }
+
 /*  █▀▄ ▄▀█ █▀█ █▄▀
     █▄▀ █▀█ █▀▄ █░█ */
    
