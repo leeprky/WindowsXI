@@ -20,15 +20,11 @@ For **Betterdiscord** Users:
 
 1. CLick > [Download](https://raw.githubusercontent.com/leeprky/WindowsXI/lode/source/support/betterdiscord/windowsXI.theme.css)
 2. Download Raw ATM
-3. 
+
 # Extras 
 
 Thank you for checking out/downloading my Theme :)
 Direct Message Me On @Discord Or Join My **[Discord](https://discord.gg/Ff3rqAYB89)** For More Help/Information For Installing/Support. Enjoy :)
-
-# Screenshots:
-
-![preview]()
 
 # Check Out My Other Similar Themes!
 
