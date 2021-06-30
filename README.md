@@ -1,5 +1,5 @@
 # WindowsXI (v1.0.0 - Latest)
-WindowsXI | Windows 11 UI Theme For Discord (v0.0.1) 
+WindowsXI | A Simple Theme Based On The New Windows 11! With Rounded Edges To Every Element Matching In Colour With Dark/Light Mode Variations & Border Radius' To Go Along With The Overall Theme, Enjoy! :)
 
 ![preview](https://i.imgur.com/zzlvrdc.png)
 
