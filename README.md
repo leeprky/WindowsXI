@@ -1,8 +1,7 @@
-# WindowsXI (v0.0.1 - Latest)
+# WindowsXI (v1.0.0 - Latest)
 WindowsXI | Windows 11 UI Theme For Discord (v0.0.1) 
 
-![preview](https://i.imgur.com/tifb7fm.png)
-![preview](https://i.imgur.com/aKxhS57.png)
+![preview](https://i.imgur.com/zzlvrdc.png)
 
 ## How To Install WindowsXI?
 
@@ -20,6 +19,16 @@ For **Betterdiscord** Users:
 
 1. CLick > [Download](https://raw.githubusercontent.com/leeprky/WindowsXI/lode/source/support/betterdiscord/windowsXI.theme.css)
 2. Download Raw ATM
+
+#Screenshots
+
+Darkmode
+
+![preview](https://i.imgur.com/lYarXcO.png)
+
+Lightmode
+
+![preview](https://i.imgur.com/ZULLdm4.png)
 
 # Extras 
 
