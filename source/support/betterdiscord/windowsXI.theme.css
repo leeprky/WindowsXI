@@ -82,7 +82,7 @@
 .theme-dark {
 
    --channeltextarea-background: #2e2e2e;
-   --Watermark-Alignment: 50%;
+   --Watermark-Alignment: 0.2%;
 
    --alt-color: 53, 170, 250;
    --alt-color2: #35AAFA; 
