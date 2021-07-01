@@ -79,6 +79,7 @@
   --bg-avatar: url(https://i.imgur.com/g37HbBe.png);
   --roundness: 8px;
   --Watermark-Alignment: 50%;
+  --public-servers: none;
  }
 
 /*  █▀▄ ▄▀█ █▀█ █▄▀
@@ -88,6 +89,8 @@
 
    --channeltextarea-background: #2e2e2e;
 
+   --bd-color: #35AAFA; 
+   --bd-color-hover: #2a8aca;
    --alt-color: 53, 170, 250;
    --alt-color2: #35AAFA; 
    
@@ -160,6 +163,8 @@
  
    --channeltextarea-background: #f7f6ff;
   
+   --bd-color: #35AAFA; 
+   --bd-color-hover: #2a8aca;
    --alt-color: 53, 170, 250;
    --alt-color2: #35AAFA; 
    
