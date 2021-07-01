@@ -1,12 +1,12 @@
 {	
-    "name": "WindowsXI",
-	"description": "A Simple Theme Based On The New Windows 11! With Rounded Edges To Every Element Matching In Colour With Dark/Light Mode Variations & Border Radius'",
-	"version": "1.0.0",
-	"author": "Leeprky#2063",
-	"license": "MIT",
-	"theme": "WindowsXI-config.css",
-    "splashTheme": "splash.css",
-    "consent": "true",
-	"preview": ["https://camo.githubusercontent.com/13e40c0f0e608dec0855a750ea411debca263c784019198212305ecd31109fc3/68747470733a2f2f692e696d6775722e636f6d2f7a7a6c767264632e706e67"],
-	"discord": "Ff3rqAYB89"
+"name": "WindowsXI",
+"description": "A Simple Theme Based On The New Windows 11! With Rounded Edges To Every Element Matching In Colour With Dark/Light Mode Variations & Border Radius'",
+"version": "1.0.0",
+"author": "Leeprky#2063",
+"license": "MIT",
+"theme": "WindowsXI-config.css",
+"splashTheme": "splash.css",
+"consent": "true",
+"preview": ["https://camo.githubusercontent.com/13e40c0f0e608dec0855a750ea411debca263c784019198212305ecd31109fc3/68747470733a2f2f692e696d6775722e636f6d2f7a7a6c767264632e706e67"],
+"discord": "Ff3rqAYB89"
 }
