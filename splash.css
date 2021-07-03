@@ -1,5 +1,6 @@
-#splash{background:#1E233A}
-.progress .progress-bar{background-color: #cac7f5}
-.progress .progress-bar .complete{background-color: #4C46A3}
-#splash .splash-inner-dl .dl-select-frame .Select-control{background:#1E233A;border-color:#1E233A}
-#splash .splash-inner-dl .dl-select-frame .Select-menu-outer{background:#1E233A;border-color:#1E233A}
+   #splash{background:var(--background-primary)}
+   .theme-dark .progress .progress-bar{background-color: #fff}
+   .theme-light .progress .progress-bar{background-color: #000}
+   .progress .progress-bar .complete{background-color: var(--alt-color2)}
+   #splash .splash-inner-dl .dl-select-frame .Select-control{background:var(--background-primary);border-color:var(--background-primary)}
+   #splash .splash-inner-dl .dl-select-frame .Select-menu-outer{background:var(--background-primary);border-color:var(--background-primary)}
