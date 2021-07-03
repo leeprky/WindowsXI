@@ -1,8 +1,8 @@
 /**
  * @name WindowsXI
  * @author Leeprky#2063
- * @version 1.0.0
- * @description Windows XI Theme | Based Of Windows 11 UI 
+ * @version 1.0.1
+ * @description A Simple Theme Based On The New Windows 11! With Rounded Edges To Every Element Matching In Colour With Dark/Light Mode Variations & Border Radius'.
  * @source https://github.com/leeprky/WindowsXI
  * @updateUrl https://github.com/leeprky/WindowsXI/blob/lode/source/support/betterdiscord/windowsXI.theme.css
  * @authorId 224524143482241035
@@ -18,7 +18,7 @@
    ╚███╔███╔╝██║██║ ╚████║██████╔╝╚██████╔╝╚███╔███╔╝███████║    ██╔╝ ██╗██║
     ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚══════╝    ╚═╝  ╚═╝╚═╝
 
-                                 １．０．０                                         
+                                 １．０．１                               
                               By leeprky#2063                                    */
 
 
@@ -27,7 +27,7 @@
            No Touch           */
 
 @import "https://leeprky.github.io/themes/WindowsXI/master-import.css";
-@import "https://leeprky.github.io/themes/WindowsXI/imports/support-09/betterdiscord.css";
+@import "https://leeprky.github.io/themes/WindowsXI/imports/support-09/betterdiscord/betterdiscord.css";
 
 /* HorizontalServerlist */
 /*
@@ -37,12 +37,10 @@
            █▀█ █▀▀ █▀▀ ██▄ █▀▄ █▀█ █░▀█ █▄▄ ██▄
               Delete `/*` At Start Of Import       */
 
-/* Slook Scheme */
-@import "";
+/* N/A */
 
 /* █▀▀ █░█ █▀ ▀█▀ █▀█ █▀▄▀█ █ █▀ ▄▀█ ▀█▀ █ █▀█ █▄░█
    █▄▄ █▄█ ▄█ ░█░ █▄█ █░▀░█ █ ▄█ █▀█ ░█░ █ █▄█ █░▀█ */
-:root {--outdated_windowsXI-017: none; --version: "1.0.0"; --build: "017"}
 
 :root {
 
@@ -231,3 +229,19 @@
    /* Other */
    --radio-group-dot-foreground: var(--alt-color2); /* Ignore */
    }
+
+/* █ █▀▀ █▄░█ █▀█ █▀█ █▀▀
+   █ █▄█ █░▀█ █▄█ █▀▄ ██▄ */
+
+:root {--outdated_windowsXI-032: none; --version: "1.0.1"; --build: "032"}
+
+/* ---------------------------------------------
+             ███████╗███╗░░██╗██████╗░
+             ██╔════╝████╗░██║██╔══██╗
+             █████╗░░██╔██╗██║██║░░██║
+             ██╔══╝░░██║╚████║██║░░██║
+             ███████╗██║░╚███║██████╔╝
+             ╚══════╝╚═╝░░╚══╝╚═════╝░
+             ╚══════╝╚═╝░░╚══╝╚═════╝░
+                 Version 1.0.1
+   --------------------------------------------- */
