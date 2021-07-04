@@ -1,7 +1,7 @@
 /**
  * @name WindowsXI
  * @author Leeprky#2063
- * @version 1.0.1
+ * @version 1.0.2
  * @description A Simple Theme Based On The New Windows 11! With Rounded Edges To Every Element Matching In Colour With Dark/Light Mode Variations & Border Radius'.
  * @source https://github.com/leeprky/WindowsXI
  * @updateUrl https://github.com/leeprky/WindowsXI/blob/lode/source/support/betterdiscord/windowsXI.theme.css
@@ -18,7 +18,7 @@
    ╚███╔███╔╝██║██║ ╚████║██████╔╝╚██████╔╝╚███╔███╔╝███████║    ██╔╝ ██╗██║
     ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚══════╝    ╚═╝  ╚═╝╚═╝
 
-                                 １．０．１                               
+                                 １．０．２                               
                               By leeprky#2063                                    */
 
 
@@ -74,10 +74,54 @@
     --green-slider-dot: #fff;
  }
 
+/* Rounding Things */
+:root {
+   --roundness: 8px;
+   --borders-buttons-rounded: 6px !important; /*Border shapes for rounded buttons. 25px for circle, 0px for square*/
+   --borders-buttons-circle: 12px!important; /*Border shapes for circle buttons. 25px for circle, 0px for square*/
+   --borders-switches: 8px !important; /*Border shapes for switches. 15px for circle, 0px for square*/
+   --borders-checkboxes: 35% !important; /*Border shapes for checkboxes. 50% for circle, 0% for square*/
+   --borders-slider-bars: 5px !important; /*Border shapes for slider bars. 5px for circle, 0px for square*/
+   --borders-slider-grabbers: 3px !important; /*Border shapes for slider grabbers. 8px for circle, 0px for square*/
+   --borders-progress-bars: 2px !important; /*Border shapes for progress bars. 5px for circle, 0px for square*/
+   --borders-inputs: 8px !important; /*Border shapes for inputs. 25px for circle, 0px for square*/
+   --borders-contexts: 8px !important; /*Border shapes for context menus. 25px for circle, 0px for square*/
+   --borders-popouts: 8px !important; /*Border shapes for popouts. 25px for circle, 0px for square*/
+   --borders-modals: 8px !important; /*Border shapes for modals. 25px for circle, 0px for square*/
+   --borders-cards: 8px !important; /*Border shapes for cards. 25px for circle, 0px for square*/
+   --borders-media: 8px !important; /*Border shapes for images, videos, audios and gifs. 25px for circle, 0px for square*/
+   --borders-previews: 8px !important; /*Border shapes for previews. 25px for circle, 0px for square*/
+   --borders-servers-default: 14% !important; /*Border shapes for server icons and circle buttons on server side. 50% for circle, 0% for square*/
+   --borders-servers-interactive: 18% !important; /*Border shapes for hovered or selected elements mentioned in previous description. 50% for circle, 0% for square*/
+   --borders-folders: 18px !important; /*Border shapes for server folders. 35px for circle, 0px for square*/
+   --borders-avatars: 28% !important; /*Border shapes for avatars. 50% for circle, 0% for square*/
+   --borders-icons-default: 17% !important; /*Border shapes for icons that have width equal height. 50% for circle, 0% for square*/
+   --borders-icons-wide: 2.5px !important; /*Border shapes for icons that have more width than height. 5px for circle, 0px for square*/
+   --borders-labels-large: 7px !important; /*Border shapes for large text and number indicators. 15px for circle, 0px for square*/
+   --borders-labels-small: 7px !important; /*Border shapes for small text and number indicators. 10px for circle, 0px for square*/
+   --borders-pills: 2.5px !important; /*Border shapes for unread badges and selected server pills. 5px for circle, 0px for square*/
+   --borders-lines: 2.5px !important; /*Border shapes for lines when you drag categories or channels. 2px for circle, 0px for square*/
+   --borders-role-outlines: 5px !important; /*Border shapes for roles outlines. 10px for circle, 0px for square*/
+   --borders-role-dots: 5px !important; /*Border shapes for roles dots. 10px for circle, 0px for square*/
+   --borders-messages: 8px !important; /*Border shapes for hovered or highlighted messages. 25px for circle, 0px for square*/
+   --borders-mentions: 5px !important; /*Border shapes for mentions. 10px for circle, 0px for square*/
+   --borders-reactions: 5px !important; /*Border shapes for reactions. 10px for circle, 0px for square*/
+   --borders-codes: 8px !important; /*Border shapes for codes and codeblocks. 10px for circle, 0px for square*/
+   --borders-embeds: 8px !important; /*Border shapes for embeds. 25px for circle, 0px for square*/
+   --borders-replies: 8px !important; /*Shape for top left replies border. 15px for circle, 0px for square*/
+   --borders-quotes: 8px !important; /*Border shapes for quote icon. 2px for circle, 0px for square*/
+   --borders-spoilers: 2px !important; /*Border shapes for spoilers. 10px for circle, 0px for square*/
+   --borders-tooltips: 8px !important; /*Border shapes for tooltips. 25px for circle, 0px for square*/
+   --borders-scrollbars: 8px !important; /*Border shapes for scrollbars. 10px for circle, 0px for square*/
+   --borders-sidebar-and-notices: 8px !important; /*Shape for top left sidebar and notices border. 25px for circle, 0px for square*/
+   --borders-navigation-highlight: 8px !important; /*Border shapes for navigation highlight when you press TAB. 25px for circle, 0px for square*/
+   --borders-toasts: 8px !important; /*Border shapes for toasts. 25px for circle, 0px for square*/
+   --borders-code-editors: 2px !important; /*Border shapes for code editors workspace. 10px for circle, 0px for square*/
+}
+
  .theme-dark, .theme-light {
   --bg-avatar: url(https://i.imgur.com/g37HbBe.png);
-  --roundness: 8px;
-  --Watermark-Alignment: 50%;
+  --Watermark-Alignment: 49
   --public-servers: none;
  }
 
@@ -233,7 +277,7 @@
 /* █ █▀▀ █▄░█ █▀█ █▀█ █▀▀
    █ █▄█ █░▀█ █▄█ █▀▄ ██▄ */
 
-:root {--outdated_windowsXI-032: none; --version: "1.0.1"; --build: "032"}
+:root {--outdated_windowsXI-038 none; --version: "1.0.2; --build: "038}
 
 /* ---------------------------------------------
              ███████╗███╗░░██╗██████╗░
@@ -243,5 +287,5 @@
              ███████╗██║░╚███║██████╔╝
              ╚══════╝╚═╝░░╚══╝╚═════╝░
              ╚══════╝╚═╝░░╚══╝╚═════╝░
-                 Version 1.0.1
+                 Version 1.0.2
    --------------------------------------------- */
