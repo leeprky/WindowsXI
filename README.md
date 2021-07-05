@@ -30,6 +30,12 @@ Lightmode
 
 ![preview](https://i.imgur.com/ZULLdm4.png)
 
+# Color Schemes
+
+# Ovel + Spotify Scheme
+
+![preview](https://i.imgur.com/0GkTNbZ.png)
+
 # Extras 
 
 Thank you for checking out/downloading my Theme :)
