@@ -5,7 +5,7 @@
    ╚███╔███╔╝██║██║ ╚████║██████╔╝╚██████╔╝╚███╔███╔╝███████║    ██╔╝ ██╗██║
     ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚══════╝    ╚═╝  ╚═╝╚═╝
 
-                                 １．０．２                                      
+                                １．０．２．１                                      
                               By leeprky#2063                                    */
 
 
@@ -85,12 +85,20 @@
  
     /* Greenple Colour*/
     --green-color: var(--alt-color2);
+    --green-color2: var(--alt-color);
     --green-bar-on: #5c646480;
     --green-bar-bg: var(--green-color);
     --green-slider-on: var(--green-color);
     --green-slider-off: #404447fd;
     --green-slider-dot: #fff;
- }
+
+    /* Indiicator */
+    --indicator-connected: 60, 150, 60;
+    --indicator-hovered: rgba(36, 36, 36, 0.25);
+    --indicator-unread: 255, 255, 255;
+    --indicator-selected: var(--alt-color);
+    --indicator-rounding: 4px !important;
+}
 
 /* Rounding Things */
 :root {
@@ -290,7 +298,7 @@
 /* █ █▀▀ █▄░█ █▀█ █▀█ █▀▀
    █ █▄█ █░▀█ █▄█ █▀▄ ██▄ */
 
-:root {--outdated_windowsXI-038: none; --version: "1.0.2"; --build: "038"}
+           :root {--outdated_windowsXI-049: none; --version: "1.0.2.1"; --build: "049"}
 
 /* ---------------------------------------------
              ███████╗███╗░░██╗██████╗░
