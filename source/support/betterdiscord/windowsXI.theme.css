@@ -1,7 +1,7 @@
 /**
  * @name WindowsXI
  * @author Leeprky#2063
- * @version 1.0.2
+ * @version 1.0.2.1
  * @description A Simple Theme Based On The New Windows 11! With Rounded Edges To Every Element Matching In Colour With Dark/Light Mode Variations & Border Radius'.
  * @source https://github.com/leeprky/WindowsXI
  * @updateUrl https://github.com/leeprky/WindowsXI/blob/lode/source/support/betterdiscord/windowsXI.theme.css
@@ -18,7 +18,7 @@
    ╚███╔███╔╝██║██║ ╚████║██████╔╝╚██████╔╝╚███╔███╔╝███████║    ██╔╝ ██╗██║
     ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚══════╝    ╚═╝  ╚═╝╚═╝
 
-                                 １．０．２                               
+                               １．０．２．１                               
                               By leeprky#2063                                    */
 
 
@@ -77,12 +77,20 @@
  
     /* Greenple Colour*/
     --green-color: var(--alt-color2);
+    --green-color2: var(--alt-color);
     --green-bar-on: #5c646480;
     --green-bar-bg: var(--green-color);
     --green-slider-on: var(--green-color);
     --green-slider-off: #404447fd;
     --green-slider-dot: #fff;
- }
+
+    /* Indiicator */
+    --indicator-connected: 60, 150, 60;
+    --indicator-hovered: rgba(36, 36, 36, 0.25);
+    --indicator-unread: 255, 255, 255;
+    --indicator-selected: var(--alt-color);
+    --indicator-rounding: 4px !important;
+}
 
 /* Rounding Things */
 :root {
@@ -287,7 +295,7 @@
 /* █ █▀▀ █▄░█ █▀█ █▀█ █▀▀
    █ █▄█ █░▀█ █▄█ █▀▄ ██▄ */
 
-:root {--outdated_windowsXI-038: none; --version: "1.0.2"; --build: "038"}
+:root {--outdated_windowsXI-049: none; --version: "1.0.2.1"; --build: "049"}
 
 /* ---------------------------------------------
              ███████╗███╗░░██╗██████╗░
@@ -297,5 +305,5 @@
              ███████╗██║░╚███║██████╔╝
              ╚══════╝╚═╝░░╚══╝╚═════╝░
              ╚══════╝╚═╝░░╚══╝╚═════╝░
-                 Version 1.0.2
+                 Version 1.0.2.1
    --------------------------------------------- */
