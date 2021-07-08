@@ -5,7 +5,7 @@
    ╚███╔███╔╝██║██║ ╚████║██████╔╝╚██████╔╝╚███╔███╔╝███████║    ██╔╝ ██╗██║
     ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚══════╝    ╚═╝  ╚═╝╚═╝
 
-                                １．０．２．１                                      
+                                １．０．２．２                                      
                               By leeprky#2063                                    */
 
 
@@ -13,7 +13,10 @@
    █ █░▀░█ █▀▀ █▄█ █▀▄ ░█░ ▄█
            No Touch           */
 
+
 @import "https://leeprky.github.io/themes/WindowsXI/master-import.css";
+/* @import "https://leeprky.github.io/themes/WindowsXI/compiled.css"; */
+
 @import "https://leeprky.github.io/themes/WindowsXI/imports/support-09/powercord/powercord.css";
 
 /* HorizontalServerlist */
@@ -105,7 +108,7 @@
     --yellow-gradient: 315deg, #c29b1b 0%, #ffa640 74%;
     --yellow-hsl: hsl(46, 72%, 52%);
     --green-gradient: 315deg, #507a73 0%, #4b7c72  74%;
-    --grey-gradient: 315deg, #5f7d91 0%, #5f7d91 74%;
+    --grey-gradient: 315deg, rgba(var(--alt-color), 0.1) 0%, rgba(var(--alt-color), 0.4) 74%;
     --white-gradient: 315deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.342) 74%;
        
     /* Transitions */
@@ -333,7 +336,7 @@
 /* █ █▀▀ █▄░█ █▀█ █▀█ █▀▀
    █ █▄█ █░▀█ █▄█ █▀▄ ██▄ */
 
-           :root {--outdated_windowsXI-049: none; --version: "1.0.2.1"; --build: "049"}
+:root {--outdated_windowsXI-059: none; --version: "1.0.2.2"; --build: "059"}
 
 /* ---------------------------------------------
              ███████╗███╗░░██╗██████╗░
