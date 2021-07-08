@@ -50,6 +50,9 @@
 /* Slook Scheme */
 /* @import "https://leeprky.github.io/themes/WindowsXI/imports/support-09/schemes/slook-theme.css";
 
+/* Couve Scheme */
+/* @import "https://leeprky.github.io/themes/WindowsXI/imports/support-09/schemes/couve-theme.css";
+
 /* Lode Imported Schemes */
 /* MAY NOT WORK AS GOOD - WARNING */
 
@@ -225,10 +228,10 @@
     --background-help-info: rgba(0,176,244,0.1); 
    
     /* Scrollbar Colours */
-    --background-modifier-hover: #323232; 
-    --background-modifier-active: #323232; 
-    --background-modifier-selected: #323232; 
-    --background-modifier-accent: #4c46a309; 
+    --background-modifier-hover: rgba(var(--alt-color), 0.2); 
+    --background-modifier-active: rgba(var(--alt-color), 0.8); 
+    --background-modifier-selected: rgba(var(--alt-color), 0.5);  
+    --background-modifier-accent: rgba(var(--alt-color), 0.1);   
    
    /* Box Shadow On Floating Elements Colours */
    --elevation-stroke: 0 0 0 1px rgba(4,4,5,0.15); 
@@ -301,10 +304,10 @@
     --background-help-info: rgba(0,176,244,0.1); 
    
     /* Scrollbar Colours */
-    --background-modifier-hover: #f5f5f5;
-    --background-modifier-active: #F6F6F6; 
-    --background-modifier-selected: #ffffff; 
-    --background-modifier-accent: #ffffff02; 
+    --background-modifier-hover: rgba(var(--alt-color), 0.2); 
+    --background-modifier-active: rgba(var(--alt-color), 0.8); 
+    --background-modifier-selected: rgba(var(--alt-color), 0.5);  
+    --background-modifier-accent: rgba(var(--alt-color), 0.1);   
    
    /* Box Shadow On Floating Elements Colours */
    --elevation-stroke: 0 0 0 1px rgba(4,4,5,0.15); 
