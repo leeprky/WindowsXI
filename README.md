@@ -1,4 +1,4 @@
-# WindowsXI (v1.0.2.1 - Latest)
+# WindowsXI (v1.0.2.2 - Latest)
 WindowsXI | A Simple Theme Based On The New Windows 11! With Rounded Edges To Every Element Matching In Colour With Dark/Light Mode Variations & Border Radius' To Go Along With The Overall Theme, Enjoy! :)
 
 ![preview](https://i.imgur.com/zzlvrdc.png)
@@ -50,7 +50,10 @@ Lightmode
 
 # + Lode Imported Schemes
 
-Shown Here:
+![preview](https://i.imgur.com/WdM3Nkv.png)
+![preview](https://i.imgur.com/VCnZ68Z.png)
+
+More Here:
 
 https://github.com/leeprky/Lode/blob/main/README.md
 
