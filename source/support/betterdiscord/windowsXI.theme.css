@@ -222,8 +222,8 @@
     --background-floating: #161616; 
    
     /* Mentioned  Colours */
-    --background-mentioned: #63636331 !important; 
-    --background-mentioned-hover: #4d4d4d59; 
+    --background-mentioned: rgba(var(--alt-color), 0.1); 
+    --background-mentioned-hover: rgba(var(--alt-color), 0.2); 
     --info-warning-foreground: #bdbdbdc5;
    
     --background-help-warning: rgba(250,166,26,0.1); 
