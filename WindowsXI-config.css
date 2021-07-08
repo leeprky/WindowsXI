@@ -98,8 +98,8 @@
 :root {
 
     /* Gradients */
-    --default-gradient: 315deg, #40b0fab4 0%, #40b0fa9d 74%;
-    --special-gradient: 315deg, #40B0FA 0%, #c987b8 74%;
+    --default-gradient: 315deg, rgba(var(--alt-color), 0.1) 0%, rgba(var(--alt-color), 0.8) 74%;
+    --special-gradient: 315deg, rgba(var(--alt-color), 0.1) 0%, #c987b8 74%;
     --red-gradient: 315deg, #AA3738 0%, #F04747 74%;
     --red-hsl: hsl(359, 63%, 53%);
     --yellow-gradient: 315deg, #c29b1b 0%, #ffa640 74%;
