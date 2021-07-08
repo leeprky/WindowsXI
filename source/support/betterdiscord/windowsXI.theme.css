@@ -1,7 +1,7 @@
 /**
  * @name WindowsXI
  * @author Leeprky#2063
- * @version 1.0.2.1
+ * @version 1.0.2.2
  * @description A Simple Theme Based On The New Windows 11! With Rounded Edges To Every Element Matching In Colour With Dark/Light Mode Variations & Border Radius'.
  * @source https://github.com/leeprky/WindowsXI
  * @updateUrl https://github.com/leeprky/WindowsXI/blob/lode/source/support/betterdiscord/windowsXI.theme.css
@@ -37,6 +37,7 @@
            █▀█ █▀▀ █▀▀ ██▄ █▀▄ █▀█ █░▀█ █▄▄ ██▄
               Delete `/*` At Start Of Import       */
 
+/* For WindowsXI */                         
 /* Ovel Scheme */
 /* @import "https://leeprky.github.io/themes/WindowsXI/imports/support-09/schemes/ovel-theme.css";
 
@@ -48,6 +49,36 @@
 
 /* Slook Scheme */
 /* @import "https://leeprky.github.io/themes/WindowsXI/imports/support-09/schemes/slook-theme.css";
+
+/* Lode Imported Schemes */
+/* MAY NOT WORK AS GOOD - WARNING */
+
+/* Citric (Yellow & Green / Blue Colour */
+/* @import url(https://raw.githack.com/leeprky/Lode/main/default/lode-schemes/citris.css); 
+/* Crimson ( Maroon )*/
+/* @import url(https://raw.githack.com/leeprky/Lode/main/default/lode-schemes/crimson.css);
+
+/* Other User's Themes */
+/* MAY NOT WORK AS GOOD - WARNING */
+
+/* midnight mars by #Luckfire */
+/* @import url(https://raw.githack.com/leeprky/Lode/main/default/schemes/MidnightMars.css); 
+/* Nebula */
+/* @import url(https://raw.githack.com/leeprky/Lode/main/default/schemes/nebula.css); 
+/* DuvBox */
+/* @import url(https://raw.githack.com/leeprky/Lode/main/default/schemes/duvbox.css); 
+/* Miyua */
+/* @import url(https://raw.githack.com/leeprky/Lode/main/default/schemes/MiyuaTheme.css);
+/* LilyPichu */ 
+/* @import url(https://raw.githack.com/leeprky/Lode/main/default/schemes/LilyPichu.css);
+/* Fey-Theme */
+/* @import url(https://raw.githack.com/leeprky/Lode/main/default/schemes/fey.css); 
+/* Neptune */
+/* @import url(https://raw.githack.com/leeprky/Lode/main/default/schemes/neptune.css); 
+/* Midnightcord */
+/* @import url(https://raw.githack.com/leeprky/Lode/main/default/schemes/midnightcord.css); 
+/* CTP */
+/* @import url(https://raw.githack.com/leeprky/Lode/main/default/schemes/ctp.css);
 
 /* █▀▀ █░█ █▀ ▀█▀ █▀█ █▀▄▀█ █ █▀ ▄▀█ ▀█▀ █ █▀█ █▄░█
    █▄▄ █▄█ ▄█ ░█░ █▄█ █░▀░█ █ ▄█ █▀█ ░█░ █ █▄█ █░▀█ */
