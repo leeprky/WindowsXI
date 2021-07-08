@@ -1,4 +1,4 @@
-# WindowsXI (v1.0.2 - Latest)
+# WindowsXI (v1.0.2.1 - Latest)
 WindowsXI | A Simple Theme Based On The New Windows 11! With Rounded Edges To Every Element Matching In Colour With Dark/Light Mode Variations & Border Radius' To Go Along With The Overall Theme, Enjoy! :)
 
 ![preview](https://i.imgur.com/zzlvrdc.png)
@@ -35,6 +35,24 @@ Lightmode
 # Ovel + Spotify Scheme
 
 ![preview](https://i.imgur.com/0GkTNbZ.png)
+
+# Lode Scheme
+
+![preview](https://i.imgur.com/GEzixeH.png)
+
+# Naive Scheme
+
+![preview](https://i.imgur.com/rA5VpKs.png)
+
+# Slook Scheme
+
+![preview](https://i.imgur.com/yRPjXYZ.png)
+
+# + Lode Imported Schemes
+
+Shown Here:
+
+https://github.com/leeprky/Lode/blob/main/README.md
 
 # Extras 
 
