@@ -236,7 +236,7 @@
     --background-help-warning: rgba(250,166,26,0.1); 
     --background-help-info: rgba(0,176,244,0.1); 
    
-    /* Scrollbar Colours */
+    /* Hovering Colours */
     --background-modifier-hover: rgba(var(--alt-color), 0.2); 
     --background-modifier-active: rgba(var(--alt-color), 0.8); 
     --background-modifier-selected: rgba(var(--alt-color), 0.5);  
