@@ -1,7 +1,7 @@
 /**
  * @name WindowsXI
  * @author Leeprky#2063
- * @version 1.0.2.2
+ * @version 1.0.2.3
  * @description A Simple Theme Based On The New Windows 11! With Rounded Edges To Every Element Matching In Colour With Dark/Light Mode Variations & Border Radius'.
  * @source https://github.com/leeprky/WindowsXI
  * @updateUrl https://github.com/leeprky/WindowsXI/blob/lode/source/support/betterdiscord/windowsXI.theme.css
@@ -18,7 +18,7 @@
    ╚███╔███╔╝██║██║ ╚████║██████╔╝╚██████╔╝╚███╔███╔╝███████║    ██╔╝ ██╗██║
     ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚══════╝    ╚═╝  ╚═╝╚═╝
 
-                               １．０．２．２                              
+                                 １．０．２                              
                               By leeprky#2063                                    */
 
 
@@ -34,6 +34,28 @@
 /* HorizontalServerlist */
 /*
 @import url("https://discordstyles.github.io/HorizontalServerList/base.css");
+
+/*      ▀█▀ █▀█ ▄▀█ █▄░█ █▀ █▀█ ▄▀█ █▀█ █▀▀ █▄░█ █▀▀ █▄█   
+        ░█░ █▀▄ █▀█ █░▀█ ▄█ █▀▀ █▀█ █▀▄ ██▄ █░▀█ █▄▄ ░█░   */
+
+/*
+@import "https://leeprky.github.io/themes/WindowsXI/imports/glass-05/glasscord.css";
+
+:root{ 
+    --glasscord-win-blur: blurbehind;
+    --glasscord-linux-blur: true;
+    --glasscord-macos-vibrancy: fullscreen-ui;
+           
+     --glasscord-background: #16162bb2 !important;
+     --glasscord-secondary-alt: #281f4180 !important; 
+     --glasscord-floating: #272141f1 !important;  
+     --background-modifier-hover: #32323256 !important; 
+     --background-modifier-active: #32323260 !important;
+     --background-modifier-selected: #32323254 !important; 
+     --background-modifier-accent: #4c46a309 !important;  
+}
+
+/* */
 
 /*         ▄▀█ █▀█ █▀█ █▀▀ █▀█ ▄▀█ █▄░█ █▀▀ █▀▀
            █▀█ █▀▀ █▀▀ ██▄ █▀▄ █▀█ █░▀█ █▄▄ ██▄
