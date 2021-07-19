@@ -36,6 +36,10 @@ Lightmode
 
 ![preview](https://i.imgur.com/0GkTNbZ.png)
 
+# Glasscord + Ovel Scheme
+
+![preview](https://i.imgur.com/eZOoAai.png)
+
 # Lode Scheme
 
 ![preview](https://i.imgur.com/GEzixeH.png)
