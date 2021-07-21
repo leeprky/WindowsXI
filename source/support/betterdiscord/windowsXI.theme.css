@@ -215,6 +215,7 @@
    --bd-color-hover: #2a8aca;
    --alt-color: 53, 170, 250;
    --alt-color2: #35AAFA; 
+   --alt-color3: 204; /* HSL */
    
    --playing-color: var(--alt-color2); 
    --spotify-color: var(--alt-color2);
