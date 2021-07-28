@@ -33,7 +33,7 @@
 
 /* HorizontalServerlist */
 /*
-@import url("https://discordstyles.github.io/HorizontalServerList/base.css");
+@import url("https://leeprky.github.io/themes/BaseStuff/horizontallist.css");
 
 /*      ▀█▀ █▀█ ▄▀█ █▄░█ █▀ █▀█ ▄▀█ █▀█ █▀▀ █▄░█ █▀▀ █▄█   
         ░█░ █▀▄ █▀█ █░▀█ ▄█ █▀▀ █▀█ █▀▄ ██▄ █░▀█ █▄▄ ░█░   */
@@ -358,6 +358,14 @@
    █ █▄█ █░▀█ █▄█ █▀▄ ██▄ */
 
 :root {--outdated_windowsXI-059: none; --version: "1.0.2.2"; --build: "059"}
+
+/* Extended */
+
+/* Center Server List */
+[data-list-id="guildsnav"]{
+   display: grid;
+   align-content: center;
+ }
 
 /* ---------------------------------------------
              ███████╗███╗░░██╗██████╗░
