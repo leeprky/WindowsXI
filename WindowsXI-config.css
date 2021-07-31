@@ -189,6 +189,7 @@
  .theme-dark, .theme-light {
   --bg-avatar: url(https://i.imgur.com/g37HbBe.png);
   --Watermark-Alignment: 49%;
+  --display-version: none !important; /* Flex To Show | None To Hide */
  }
 
 /*  █▀▄ ▄▀█ █▀█ █▄▀
