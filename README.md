@@ -32,6 +32,10 @@ Lightmode
 
 # Color Schemes
 
+# Blurple Scheme
+
+![preview](https://i.imgur.com/JzJ9IcJ.png)
+
 # Ovel + Spotify Scheme
 
 ![preview](https://i.imgur.com/0GkTNbZ.png)
