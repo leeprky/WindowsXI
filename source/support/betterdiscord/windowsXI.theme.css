@@ -1,7 +1,7 @@
 /**
  * @name WindowsXI
  * @author Leeprky#2063
- * @version 1.0.3
+ * @version 1.1.0
  * @description A Simple Theme Based On The New Windows 11! With Rounded Edges To Every Element Matching In Colour With Dark/Light Mode Variations & Border Radius'.
  * @source https://github.com/leeprky/WindowsXI
  * @updateUrl https://github.com/leeprky/WindowsXI/blob/lode/source/support/betterdiscord/windowsXI.theme.css
@@ -11,57 +11,37 @@
  * @website https://leeprky.github.io/
 */
 
-/* ██╗    ██╗██╗███╗   ██╗██████╗  ██████╗ ██╗    ██╗███████╗    ██╗  ██╗██╗
+//* ██╗    ██╗██╗███╗   ██╗██████╗  ██████╗ ██╗    ██╗███████╗    ██╗  ██╗██╗
    ██║    ██║██║████╗  ██║██╔══██╗██╔═══██╗██║    ██║██╔════╝    ╚██╗██╔╝██║
    ██║ █╗ ██║██║██╔██╗ ██║██║  ██║██║   ██║██║ █╗ ██║███████╗     ╚███╔╝ ██║
    ██║███╗██║██║██║╚██╗██║██║  ██║██║   ██║██║███╗██║╚════██║     ██╔██╗ ██║
    ╚███╔███╔╝██║██║ ╚████║██████╔╝╚██████╔╝╚███╔███╔╝███████║    ██╔╝ ██╗██║
     ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚══════╝    ╚═╝  ╚═╝╚═╝
 
-                                 １．０．3                            
+                                 １．１．０                                   
                               By leeprky#2063                                    */
-
 
 /* █ █▀▄▀█ █▀█ █▀█ █▀█ ▀█▀ █▀
    █ █░▀░█ █▀▀ █▄█ █▀▄ ░█░ ▄█
            No Touch           */
 
 @import "https://leeprky.github.io/themes/WindowsXI/master-import.css";
-/* @import "https://leeprky.github.io/themes/WindowsXI/compiled.css"; */
-
-@import "https://leeprky.github.io/themes/WindowsXI/imports/support-09/betterdiscord/betterdiscord.css";
+@import "https://leeprky.github.io/themes/WindowsXI/imports/support-09/powercord/powercord.css";
 
 /* HorizontalServerlist */
-/*
-@import url("https://leeprky.github.io/themes/BaseStuff/horizontallist.css");
-
-/*      ▀█▀ █▀█ ▄▀█ █▄░█ █▀ █▀█ ▄▀█ █▀█ █▀▀ █▄░█ █▀▀ █▄█   
-        ░█░ █▀▄ █▀█ █░▀█ ▄█ █▀▀ █▀█ █▀▄ ██▄ █░▀█ █▄▄ ░█░   */
-
-/*
-@import "https://leeprky.github.io/themes/WindowsXI/imports/glass-05/glasscord.css";
-
-:root{ 
-    --glasscord-win-blur: blurbehind;
-    --glasscord-linux-blur: true;
-    --glasscord-macos-vibrancy: fullscreen-ui;
-           
-     --glasscord-background: #16162bb2 !important;
-     --glasscord-secondary-alt: #281f4180 !important; 
-     --glasscord-floating: #272141f1 !important;  
-     --background-modifier-hover: #32323256 !important; 
-     --background-modifier-active: #32323260 !important;
-     --background-modifier-selected: #32323254 !important; 
-     --background-modifier-accent: #4c46a309 !important;  
-}
-
-/* */
+/* @import url("https://leeprky.github.io/themes/BaseStuff/horizontallist.css");
 
 /*         ▄▀█ █▀█ █▀█ █▀▀ █▀█ ▄▀█ █▄░█ █▀▀ █▀▀
            █▀█ █▀▀ █▀▀ ██▄ █▀▄ █▀█ █░▀█ █▄▄ ██▄
               Delete `/*` At Start Of Import       */
 
-/* For WindowsXI */                         
+/* For WindowsXI */  
+/* Default If Needed */
+/* @import "https://leeprky.github.io/themes/WindowsXI/imports/support-09/schemes/default.css";
+
+/* Blurple */
+/* @import "https://leeprky.github.io/themes/WindowsXI/imports/support-09/schemes/blurple-theme.css";
+
 /* Ovel Scheme */
 /* @import "https://leeprky.github.io/themes/WindowsXI/imports/support-09/schemes/ovel-theme.css";
 
@@ -110,20 +90,42 @@
 /* CTP */
 /* @import url(https://raw.githack.com/leeprky/Lode/main/default/schemes/ctp.css);
 
+/*  █▀▀ █░░ ▄▀█ █▀ █▀ █▀▀ █▀█ █▀█ █▀▄
+    █▄█ █▄▄ █▀█ ▄█ ▄█ █▄▄ █▄█ █▀▄ █▄▀    
+        ▀█▀ █▀█ ▄▀█ █▄░█ █▀ █▀█ ▄▀█ █▀█ █▀▀ █▄░█ █▀▀ █▄█   
+        ░█░ █▀▄ █▀█ █░▀█ ▄█ █▀▀ █▀█ █▀▄ ██▄ █░▀█ █▄▄ ░█░   */
+
+/*
+@import "https://leeprky.github.io/themes/WindowsXI/imports/glass-05/glasscord.css";
+
+:root{ 
+   --glasscord-win-blur: blurbehind;
+   --glasscord-linux-blur: true;
+   --glasscord-macos-vibrancy: fullscreen-ui;
+   
+   --glasscord-background: #262b3d6e !important;
+   --glasscord-secondary-alt: #1f1f1f80 !important; 
+   --glasscord-floating: #222222f1 !important;  
+   --background-modifier-hover: #32323256 !important; 
+   --background-modifier-active: #32323260 !important; 
+   --background-modifier-selected: #32323254 !important; 
+   --background-modifier-accent: #4c46a309 !important;  
+}
+
 /* █▀▀ █░█ █▀ ▀█▀ █▀█ █▀▄▀█ █ █▀ ▄▀█ ▀█▀ █ █▀█ █▄░█
    █▄▄ █▄█ ▄█ ░█░ █▄█ █░▀░█ █ ▄█ █▀█ ░█░ █ █▄█ █░▀█ */
 
 :root {
 
     /* Gradients */
-    --default-gradient: 315deg, rgba(var(--alt-color), 0.1) 0%, rgba(var(--alt-color), 0.8) 74%;
+    --default-gradient: 315deg, rgba(var(--alt-color), 0.6) 0%, rgba(var(--alt-color), 0.8) 74%;
     --special-gradient: 315deg, rgba(var(--alt-color), 0.1) 0%, #c987b8 74%;
     --red-gradient: 315deg, #AA3738 0%, #F04747 74%;
     --red-hsl: hsl(359, 63%, 53%);
     --yellow-gradient: 315deg, #c29b1b 0%, #ffa640 74%;
     --yellow-hsl: hsl(46, 72%, 52%);
     --green-gradient: 315deg, #507a73 0%, #4b7c72  74%;
-    --grey-gradient: 315deg, rgba(var(--alt-color), 0.1) 0%, rgba(var(--alt-color), 0.4) 74%;
+    --grey-gradient: 315deg, rgba(var(--alt-color), 0.6) 0%, rgba(var(--alt-color), 0.8) 74%;
     --white-gradient: 315deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.342) 74%;
        
     /* Transitions */
@@ -139,10 +141,10 @@
     /* Greenple Colour*/
     --green-color: var(--alt-color2);
     --green-color2: var(--alt-color);
-    --green-bar-on: #5c646480;
+    --green-bar-on: #2b3555;
     --green-bar-bg: var(--green-color);
     --green-slider-on: var(--green-color);
-    --green-slider-off: #404447fd;
+    --green-slider-off: #2b3555;
     --green-slider-dot: #fff;
 
     /* Indiicator */
@@ -201,170 +203,168 @@
  .theme-dark, .theme-light {
   --bg-avatar: url(https://i.imgur.com/g37HbBe.png);
   --Watermark-Alignment: 49%;
-  --public-servers: none;
   --display-version: none !important; /* Flex To Show | None To Hide */
  }
-
+   
 /*  █▀▄ ▄▀█ █▀█ █▄▀
     █▄▀ █▀█ █▀▄ █░█ */
    
-.theme-dark {
+   .theme-dark {
+   
+      --channeltextarea-background: var(--background-secondary);
+   
+      --bd-color: #35AAFA ;
+      --bd-color-hover: #3099df;
+      --alt-color: 53, 170, 250;
+      --alt-color2: #35AAFA ;
+      --alt-color3: 204 ;/* HSL */
+      
+      --playing-color: var(--alt-color2) ;
+      --spotify-color: var(--alt-color2);
+      --streaming-color: rgb(127, 50, 179) ;
+      
+       /* Header Colors */
+       --header-primary: #FFFFFF ;
+       --header-secondary: #c7c7c7 ;
+       --channels-headings: var(--alt-color2) ;
+     
+       /* Text Colours */
+       --text-normal: #F0F0F0 ;
+       --text-muted: #B3B3B3 ;
+       --text-link: var(--alt-color2) ;
+       --channels-default: #dddddd ;
+       --interactive-normal: #F0F0F0 ;
+       --interactive-hover: #F0F0F0 ;
+       --interactive-hover-icons: var(--background-accent2) ;
+       --interactive-active: #fefeff ;
+        --interactive-active-icons: var(--background-accent2) ;
+       --interactive-muted: #585858 ;
+      
+       /* Background Colours */
+       --background-primary: #202020 ;
+       --background-primary-alt: #202020 ;
+       --background-secondary: #191919 ;
+       --background-secondary-alt: #191919;
+       --background-tertiary: #171717 ;
+       --background-accent: var(--alt-color2) ;
+       --background-floating: #161616 ;
+      
+       /* Mentioned  Colours */
+       --background-mentioned: rgba(var(--alt-color), 0.1) ;
+       --background-mentioned-hover: rgba(var(--alt-color), 0.2) ;
+       --info-warning-foreground: #bdbdbdc5;
+      
+       --background-help-warning: rgba(250,166,26,0.1) ;
+       --background-help-info: rgba(0,176,244,0.1) ;
+      
+       /* Hovering Colours */
+       --background-modifier-hover: rgba(var(--alt-color), 0.2) ;
+       --background-modifier-active: rgba(var(--alt-color), 0.8) ;
+       --background-modifier-selected: rgba(var(--alt-color), 0.5) ; 
+       --background-modifier-accent: rgba(var(--alt-color), 0.1) ;  
+      
+      /* Box Shadow On Floating Elements Colours */
+      --elevation-stroke: 0 0 0 1px rgba(4,4,5,0.15) ;
+      --elevation-low: 0 1px 0 rgba(18, 20, 36, 0.767),0 1.5px 0 rgba(6,6,7,0.05),0 2px 0 rgba(4,4,5,0.05) ;
+      --elevation-medium: 0 4px 4px rgba(0,0,0,0.16) ;
+      --elevation-high: 0 8px 16px rgba(0,0,0,0.24) ;
+      
+      --scrollbar-thin-thumb: #6c6c6c ;
+      --scrollbar-thin-track: #17171700;
+      --scrollbar-auto-thumb: #6c6c6c;
+      --scrollbar-auto-track: #17171700 ;
+      --scrollbar-auto-scrollbar-color-thumb: #6c6c6c ;
+      --scrollbar-auto-scrollbar-color-track: #171717da ;
+          
+      /* Other */
+      --radio-group-dot-foreground: var(--alt-color) ;
+      }
+   
+   
+      /* █░░ █ █▀▀ █░█ ▀█▀
+         █▄▄ █ █▄█ █▀█ ░█░ */
+   
+    .theme-light {
+    
+      --channeltextarea-background: var(--background-secondary);
+     
+      --bd-color: #35AAFA ;
+      --bd-color-hover: #3099df;
+      --alt-color: 53, 170, 250 ;
+      --alt-color2: #35AAFA ;
+      --alt-color3: 235;
+      
+      --playing-color: var(--alt-color2) ;
+      --spotify-color: var(--alt-color2) ;
+      --streaming-color: rgb(127, 50, 179) ;
+      
+       /* Header Colors */
+       --header-primary: #1A1A1A ;
+       --header-secondary: #5E5D5F ;
+       --channels-headings: var(--alt-color2) ;
+     
+       /* Text Colours */
+       --text-normal: #585858 ;
+       --text-muted: #9e9d9d ;
+       --text-link: var(--alt-color2) ;
+       --channels-default: #585858 ;
+       --interactive-normal: #585858 ;
+       --interactive-hover: #424242 ;
+       --interactive-hover-icons: var(--background-accent2) ;
+       --interactive-active: #333333 ;
+        --interactive-active-icons: var(--background-accent2) ;
+       --interactive-muted: #989898 ;
+      
+       /* Background Colours */
+     --background-primary: #F3F3F3 ; 
+     --background-primary-alt: #F3F3F3 ; 
+     --background-secondary: #eeeeee ; 
+     --background-secondary-alt: #eeeeee ; 
+     --background-tertiary: #f3f3f3 ; 
+     --background-accent: var(--alt-color2) ; 
+     --background-floating: #ffffff ; 
+      
+       /* Mentioned  Colours */
+       --background-mentioned: #fcfcfc ; 
+       --background-mentioned-hover: #ebebeb ;
+       --info-warning-foreground: #1f1e1ec5;
+      
+       --background-help-warning: rgba(250,166,26,0.1);
+       --background-help-info: rgba(0,176,244,0.1) ;
+      
+       /* Scrollbar Colours */
+       --background-modifier-hover: rgba(var(--alt-color), 0.2) ;
+       --background-modifier-active: rgba(var(--alt-color), 0.8) ;
+       --background-modifier-selected: rgba(var(--alt-color), 0.5) ; 
+       --background-modifier-accent: rgba(var(--alt-color), 0.1) ;  
+      
+      /* Box Shadow On Floating Elements Colours */
+      --elevation-stroke: 0 0 0 1px rgba(4,4,5,0.15) ;
 
-   --channeltextarea-background: #2e2e2e;
-
-   --bd-color: #35AAFA; 
-   --bd-color-hover: #2a8aca;
-   --alt-color: 53, 170, 250;
-   --alt-color2: #35AAFA; 
-   --alt-color3: 204; /* HSL */
-   
-   --playing-color: var(--alt-color2); 
-   --spotify-color: var(--alt-color2);
-   --streaming-color: rgb(127, 50, 179); 
-   
-    /* Header Colors */
-    --header-primary: #FFFFFF; 
-    --header-secondary: #c7c7c7; 
-    --channels-headings: var(--alt-color2); 
-  
-    /* Text Colours */
-    --text-normal: #F0F0F0; 
-    --text-muted: #B3B3B3; 
-    --text-link: var(--alt-color2); 
-    --channels-default: #dddddd; 
-    --interactive-normal: #F0F0F0; 
-    --interactive-hover: #F0F0F0; 
-    --interactive-hover-icons: var(--background-accent2); 
-    --interactive-active: #fefeff; 
-     --interactive-active-icons: var(--background-accent2); 
-    --interactive-muted: #585858; 
-   
-    /* Background Colours */
-    --background-primary: #202020; 
-    --background-primary-alt: #202020; 
-    --background-secondary: #191919; 
-    --background-secondary-alt: #191919;
-    --background-tertiary: #171717; 
-    --background-accent: var(--alt-color2); 
-    --background-floating: #161616; 
-   
-    /* Mentioned  Colours */
-    --background-mentioned: rgba(var(--alt-color), 0.1); 
-    --background-mentioned-hover: rgba(var(--alt-color), 0.2); 
-    --info-warning-foreground: #bdbdbdc5;
-   
-    --background-help-warning: rgba(250,166,26,0.1); 
-    --background-help-info: rgba(0,176,244,0.1); 
-   
-    /* Scrollbar Colours */
-    --background-modifier-hover: rgba(var(--alt-color), 0.2); 
-    --background-modifier-active: rgba(var(--alt-color), 0.8); 
-    --background-modifier-selected: rgba(var(--alt-color), 0.5);  
-    --background-modifier-accent: rgba(var(--alt-color), 0.1);   
-   
-   /* Box Shadow On Floating Elements Colours */
-   --elevation-stroke: 0 0 0 1px rgba(4,4,5,0.15); 
-   --elevation-low: 0 1px 0 rgba(18, 20, 36, 0.767),0 1.5px 0 rgba(6,6,7,0.05),0 2px 0 rgba(4,4,5,0.05);
-   --elevation-medium: 0 4px 4px rgba(0,0,0,0.16); 
-   --elevation-high: 0 8px 16px rgba(0,0,0,0.24); 
-   
-   --scrollbar-thin-thumb: #6c6c6c; 
-   --scrollbar-thin-track: #17171700;
-   --scrollbar-auto-thumb: #6c6c6c;
-   --scrollbar-auto-track: #17171700; 
-   --scrollbar-auto-scrollbar-color-thumb: #6c6c6c; 
-   --scrollbar-auto-scrollbar-color-track: #171717da; 
-       
-   /* Other */
-   --radio-group-dot-foreground: var(--alt-color); 
-   }
-
-
-   /* █░░ █ █▀▀ █░█ ▀█▀
-      █▄▄ █ █▄█ █▀█ ░█░ */
-
- .theme-light {
- 
-   --channeltextarea-background: #f7f6ff;
-  
-   --bd-color: #35AAFA; 
-   --bd-color-hover: #2a8aca;
-   --alt-color: 53, 170, 250;
-   --alt-color2: #35AAFA; 
-   
-   --scrollbars: block; 
-   --public-servers: block; 
-   --playing-color: var(--alt-color2); 
-   --spotify-color: var(--alt-color2); 
-   --streaming-color: rgb(127, 50, 179); 
-   
-    /* Header Colors */
-    --header-primary: #1A1A1A; 
-    --header-secondary: #5E5D5F; 
-    --channels-headings: var(--alt-color2); 
-  
-    /* Text Colours */
-    --text-normal: #585858; 
-    --text-muted: #9e9d9d; 
-    --text-link: var(--alt-color2); 
-    --channels-default: #585858; 
-    --interactive-normal: #585858; 
-    --interactive-hover: #424242; 
-    --interactive-hover-icons: var(--background-accent2); 
-    --interactive-active: #333333; 
-     --interactive-active-icons: var(--background-accent2); 
-    --interactive-muted: #989898; 
-   
-    /* Background Colours */
-  --background-primary: #F3F3F3 !important; 
-  --background-primary-alt: #F3F3F3 !important; 
-  --background-secondary: #eeeeee !important; 
-  --background-secondary-alt: #eeeeee !important; 
-  --background-tertiary: #f3f3f3 !important; 
-  --background-accent: var(--alt-color2) !important; 
-  --background-floating: #ffffff !important; 
-   
-    /* Mentioned  Colours */
-    --background-mentioned: #fcfcfc !important; 
-    --background-mentioned-hover: #ebebeb; 
-    --info-warning-foreground: #1f1e1ec5;
-   
-    --background-help-warning: rgba(250,166,26,0.1);
-    --background-help-info: rgba(0,176,244,0.1); 
-   
-    /* Hovering Colours */
-    --background-modifier-hover: rgba(var(--alt-color), 0.2); 
-    --background-modifier-active: rgba(var(--alt-color), 0.8); 
-    --background-modifier-selected: rgba(var(--alt-color), 0.5);  
-    --background-modifier-accent: rgba(var(--alt-color), 0.1);   
-   
-   /* Box Shadow On Floating Elements Colours */
-   --elevation-stroke: 0 0 0 1px rgba(4,4,5,0.15); 
-   --elevation-low: 0 1px 0 rgba(18, 20, 36, 0.767),0 1.5px 0 rgba(6,6,7,0.05),0 2px 0 rgba(4,4,5,0.05);
-   --elevation-medium: 0 4px 4px rgba(0,0,0,0.16); 
-   --elevation-high: 0 8px 16px rgba(0,0,0,0.24); 
-   
-   --scrollbar-thin-thumb: #8A8A8A; 
-   --scrollbar-thin-track: #f7f7f700;
-   --scrollbar-auto-thumb: #8A8A8A;
-   --scrollbar-auto-track: #ffffff36; 
-   --scrollbar-auto-scrollbar-color-thumb: #6c6c6c; 
-   --scrollbar-auto-scrollbar-color-track: #171717da; 
-       
-   /* Other */
-   --radio-group-dot-foreground: var(--alt-color2); /* Ignore */
-   }
+      --elevation-low: 0 1px 0 rgba(18, 20, 36, 0.767),0 1.5px 0 rgba(6,6,7,0.05),0 2px 0 rgba(4,4,5,0.05);
+      --elevation-medium: 0 4px 4px rgba(0,0,0,0.16) ;
+      --elevation-high: 0 8px 16px rgba(0,0,0,0.24) ;
+      
+      --scrollbar-thin-thumb: #8A8A8A ;
+      --scrollbar-thin-track: #f7f7f700;
+      --scrollbar-auto-thumb: #8A8A8A;
+      --scrollbar-auto-track: #ffffff36 ;
+      --scrollbar-auto-scrollbar-color-thumb: #6c6c6c ;
+      --scrollbar-auto-scrollbar-color-track: #171717da ;
+          
+      /* Other */
+      --radio-group-dot-foreground: var(--alt-color2) ;/* Ignore */
+      }
 
 /* █ █▀▀ █▄░█ █▀█ █▀█ █▀▀
    █ █▄█ █░▀█ █▄█ █▀▄ ██▄ */
 
-:root {--outdated_windowsXI-077: none; --version: "1.0.3"; --build: "077"}
+:root {--outdated_windowsXI-080: none; --version: "1.1.0"; --build: "080"}
 
 /* Extended */
 
 /* Center Server List */
-/*
-[data-list-id="guildsnav"]{
+/* [data-list-id="guildsnav"]{
    display: grid;
    align-content: center;
  }
@@ -377,5 +377,5 @@
              ███████╗██║░╚███║██████╔╝
              ╚══════╝╚═╝░░╚══╝╚═════╝░
              ╚══════╝╚═╝░░╚══╝╚═════╝░
-                 Version 1.0.3
+                 Version 1.1.0
    --------------------------------------------- */
