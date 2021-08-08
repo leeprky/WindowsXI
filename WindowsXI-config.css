@@ -98,10 +98,10 @@
    --background-modifier-selected: #32323254 !important; 
    --background-modifier-accent: #4c46a309 !important;  
 
-body{background-color: transparent;}
-#app-mount{border-radius: 12px;} /* Default "12px" - Higher = More Round */
-
 }
+
+body{background-color: transparent;}
+#app-mount{border-radius: 12px;} 
 
 /* █▀▀ █░█ █▀ ▀█▀ █▀█ █▀▄▀█ █ █▀ ▄▀█ ▀█▀ █ █▀█ █▄░█
    █▄▄ █▄█ ▄█ ░█░ █▄█ █░▀░█ █ ▄█ █▀█ ░█░ █ █▄█ █░▀█ */
