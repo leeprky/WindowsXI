@@ -1,7 +1,7 @@
 /**
  * @name WindowsXI
  * @author Leeprky#2063
- * @version 1.1.1
+ * @version 1.1.0
  * @description A Simple Theme Based On The New Windows 11! With Rounded Edges To Every Element Matching In Colour With Dark/Light Mode Variations & Border Radius'.
  * @source https://github.com/leeprky/WindowsXI
  * @updateUrl https://github.com/leeprky/WindowsXI/blob/lode/source/support/betterdiscord/windowsXI.theme.css
@@ -286,6 +286,8 @@
          █▄▄ █ █▄█ █▀█ ░█░ */
    
     .theme-light {
+       
+         --indicator-unread: 0, 0, 0 !important;
     
       --channeltextarea-background: var(--background-secondary);
      
