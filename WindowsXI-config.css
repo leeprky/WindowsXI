@@ -101,7 +101,7 @@
 }
 
 body{background-color: transparent;}
-#app-mount{border-radius: 12px;} 
+#app-mount{border-radius: 12px; !important} 
 
 /* █▀▀ █░█ █▀ ▀█▀ █▀█ █▀▄▀█ █ █▀ ▄▀█ ▀█▀ █ █▀█ █▄░█
    █▄▄ █▄█ ▄█ ░█░ █▄█ █░▀░█ █ ▄█ █▀█ ░█░ █ █▄█ █░▀█ */
