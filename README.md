@@ -1,4 +1,4 @@
-# WindowsXI (v1.0.2.2 - Latest)
+# WindowsXI (v1.1.0 - Latest)
 WindowsXI | A Simple Theme Based On The New Windows 11! With Rounded Edges To Every Element Matching In Colour With Dark/Light Mode Variations & Border Radius' To Go Along With The Overall Theme, Enjoy! :)
 
 ![preview](https://i.imgur.com/zzlvrdc.png)
