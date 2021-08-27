@@ -101,7 +101,7 @@
 }
 
 body{background-color: transparent;}
-#app-mount{border-radius: 12px; !important} 
+#app-mount{border-radius: 12px !important} 
 
 /* █▀▀ █░█ █▀ ▀█▀ █▀█ █▀▄▀█ █ █▀ ▄▀█ ▀█▀ █ █▀█ █▄░█
    █▄▄ █▄█ ▄█ ░█░ █▄█ █░▀░█ █ ▄█ █▀█ ░█░ █ █▄█ █░▀█ */
@@ -124,7 +124,7 @@ body{background-color: transparent;}
     --font-hover: bold;
     --font-size-hover: 15px;
     --hover-transition: 0.1s linear;
-    --transform-normal: scale(1);
+    --transform-normal: scale(1); 
     --hover-transform: scale(1.15);
     --setting-hover-transform: scale(1.025);
     --button-hover-transform: scale(1.03);
