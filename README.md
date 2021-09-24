@@ -17,7 +17,7 @@ cd powercord/src/Powercord/themes && git clone https://github.com/leeprky/Window
 
 For **Betterdiscord** Users:
 
-1. CLick > [Download](https://betterdiscord.app/Download?id=343)
+1. CLick > [Download](https://betterdiscord.app/Download?id=343) (THIS IS NOT THE RAW)
 
 #Screenshots
 
