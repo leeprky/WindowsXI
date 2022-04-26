@@ -5,7 +5,7 @@
    ╚███╔███╔╝██║██║ ╚████║██████╔╝╚██████╔╝╚███╔███╔╝███████║    ██╔╝ ██╗██║
     ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚══════╝    ╚═╝  ╚═╝╚═╝
 
-                                 １．１．１                                  
+                                 １．１．2                                  
                               By leeprky#2063                                    */
 
 /* █ █▀▄▀█ █▀█ █▀█ █▀█ ▀█▀ █▀
@@ -348,16 +348,13 @@ body{background-color: transparent;}
 /* █ █▀▀ █▄░█ █▀█ █▀█ █▀▀
    █ █▄█ █░▀█ █▄█ █▀▄ ██▄ */
 
-:root {--outdated_windowsXI-081: none; --version: "1.1.1PC"; --build: "081"}
+:root {--outdated_windowsXI-082: none; --version: "1.1.2PC"; --build: "082"}
+.wrapper-1_HaEi > ul > .scroller-3X7KbA > div[aria-label="Servers"] {margin-top: 00px;}.guilds-2JjMmN .scroller-3X7KbA > [aria-label], .guilds-2JjMmN .scroller-3X7KbA > [style]:nth-child(2) { margin-top: 00px;}
 
-/* Extended */
-
-/* Center Server List */
-/* [data-list-id="guildsnav"]{
-   display: grid;
-   align-content: center;
- }
-
+ /* Put The User Info Back */
+ .container-1NXEtd, .privateChannels-oVe7HL {
+   order: 0 !important; /* Change To 0 - Default 2 */
+}
 /* ---------------------------------------------
              ███████╗███╗░░██╗██████╗░
              ██╔════╝████╗░██║██╔══██╗
