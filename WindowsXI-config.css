@@ -353,7 +353,7 @@ body{background-color: transparent;}
 
  /* Put The User Info Back */
  .container-1NXEtd, .privateChannels-oVe7HL {
-   order: 0 !important; /* Change To 0 - Default 2 */
+   order: 2 !important; /* Change To 0 - Default 2 */
 }
 /* ---------------------------------------------
              ███████╗███╗░░██╗██████╗░
